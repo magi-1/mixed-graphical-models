@@ -1,5 +1,7 @@
 # Mixed-Graphical-Models
 
+Course project for STAT 616 at Texas A&M University.
+
 Update (12/1/2020): I am currently implimenting the perscribed parameter estimation scheme (Lee and Hastie 2014) and will push my work soon.
 
 ### Key references
