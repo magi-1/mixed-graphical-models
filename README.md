@@ -2,6 +2,8 @@
 
 Course project for STAT 616 at Texas A&M University.
 
+A dataset has been prepared that lends itself to the Gaussian-Potts model and is in the notebooks folder.
+
 ### Key references
 - [Graphical Models via Univariate Exponential Family Distributions](https://jmlr.org/papers/volume16/yang15a/yang15a.pdf)
 
